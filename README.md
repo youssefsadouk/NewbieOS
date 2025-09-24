@@ -1,2 +1,2 @@
-# NewbieOS
-Developing a Multithreaded Kernel From Scratch Using Assembly &amp; C
+# Minimal x86 Bootloader
+Minimal x86 Bootloader: Print Message with BIOS Interrupt
